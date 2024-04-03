@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class BoardController {
 	@GetMapping("/get")
 	public String get(){
-		return "<h1>get 요청됨</h1>";
+		return "<h1>get 요청됨!!</h1>";
 	}
 }
