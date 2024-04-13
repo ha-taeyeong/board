@@ -1,9 +1,9 @@
-package com.project.board.vo;
+package com.project.board.dto;
 
 import lombok.Data;
 
 @Data
-public class UserVo {
+public class UserDto {
 
 	private Integer id;
 
